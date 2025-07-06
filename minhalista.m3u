@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="DESENHOS 24H", 085 CARTOON tuning
+http://216.227.152.66:9000/play/live/9BDCA724E3CA4213.m3u8?id=O0QRVjvnl7hCg9PKXTqh-G16yCg6XUy4xQwWPUZdmXc&uid=040609080233FFE9&mk=1750093490&client=newaaa&token=PD69nbVFxgk-UqxWPqvppIBFB1jOjYpwuRpwjRb7DUsWy520W4Zz0ozdFrtby35ZhRPpk6DM3fYjL96gB8wkh3hdo9R8tgv5By8_kjnFf4VbdMGpXjfggp-wsCdIBWlMzIkpKkeDKRoiFLgyC4VOgDFRpXXwHIRHI6jZZ7I2xts_lHE4dQisjxDVOiLtXOvPro2Kp5ixiekIJe9KBDvkZQ&ver=d000:c056&last=_NnuJdKISUA1Fnluz6xp26-RdpjJoWzsX8tk9nLuPYE&sign=2Uu2BVP0I6vxrf_DoYaEiA&sub=false&px=false&def=0
+#EXTINF:-1 group-title="DESENHOS 24H", 081 SOUTH PARK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
+#EXTINF:-1 group-title="DESENHOS 24H", 082 PICA PAU
+http://ap4x.online/live/ONNEPLAY/0511605511/3787423.m3u8
+#EXTINF:-1 group-title="DESENHOS 24H", 083 DRAGON BALL
+http://ap4x.online/live/ONNEPLAY/0511605511/3787496.m3u8
+#EXTINF:-1 group-title="DESENHOS 24H", 084 JOVENS TITANS
+http://ap4x.online/live/ONNEPLAY/0511605511/3787571.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 001 UFC FIGHT PASS
+http://granpirosh.top/live/841866657/c581b7318b/250112.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 002 UFC FIGHT PASS 2
+http://granpirosh.top/live/841866657/c581b7318b/555764.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 003 FORMULA1(F1)
+http://granpirosh.top/live/841866657/c581b7318b/18297.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 004 TV BRASIL
+http://granpirosh.top/live/841866657/c581b7318b/364678.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 005 TV CAMARA
+http://granpirosh.top/live/841866657/c581b7318b/368851.m3u8
