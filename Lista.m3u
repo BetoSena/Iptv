@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV ABERTAS", Globo SP
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/abertas/globo-sp.m3u8
+#EXTINF:-1 group-title="TV ABERTAS", SBT Nacional
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/abertas/sbt-nacional.m3u8
+#EXTINF:-1 group-title="TV ABERTAS", Record SP
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/abertas/record-sp.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", Cartoon Network
+https://raw.githubusercontent.com/chzw2025/iptv2025/master/cartoon.m3u8
+#EXTINF:-1 group-title="INFANTIL", Nickelodeon
+https://raw.githubusercontent.com/chzw2025/iptv2025/master/nickelodeon.m3u8
+#EXTINF:-1 group-title="INFANTIL", Gloob
+https://raw.githubusercontent.com/chzw2025/iptv2025/master/gloob.m3u8
+
+#EXTINF:-1 group-title="ESPORTES", SporTV
+https://raw.githubusercontent.com/Yohaneto/Listas-IPTV-2025/master/esportes/sportv.m3u8
+#EXTINF:-1 group-title="ESPORTES", ESPN Brasil
+https://raw.githubusercontent.com/Yohaneto/Listas-IPTV-2025/master/esportes/espn-brasil.m3u8
+#EXTINF:-1 group-title="ESPORTES", Combate
+https://raw.githubusercontent.com/Yohaneto/Listas-IPTV-2025/master/esportes/combate.m3u8
+
+#EXTINF:-1 group-title="FILMES & SÉRIES", Telecine Premium
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/filmes/telecine-premium.m3u8
+#EXTINF:-1 group-title="FILMES & SÉRIES", TNT
+https://raw.githubusercontent.com/chzw2025/iptv2025/master/tnt.m3u8
+#EXTINF:-1 group-title="FILMES & SÉRIES", Warner
+https://raw.githubusercontent.com/chzw2025/iptv2025/master/warner.m3u8
